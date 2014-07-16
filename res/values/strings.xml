@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlinkViewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string name="title_activity_settings">Settings</string>
+    <string name="blinkAddressTitle">IP Address</string>
+    <string name="blinkAddressDesc">Set the IP address for the blink</string>
+
+</resources>

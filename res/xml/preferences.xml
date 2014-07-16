@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="blinkIPaddress"
+        android:title="@string/blinkAddressTitle"
+        android:summary="@string/blinkAddressDesc"
+        android:defaultValue="10.0.0.250"
+        android:inputType="phone" />
+
+</PreferenceScreen>
