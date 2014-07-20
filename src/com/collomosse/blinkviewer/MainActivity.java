@@ -18,6 +18,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+// Main Activity
 public class MainActivity extends Activity implements VideoPumpListener {
 
 	public ImageView _camImage=null;
